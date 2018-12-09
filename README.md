@@ -15,3 +15,7 @@ As an additional insight, we also included exploratory analysis through a predic
 The data cleaning and preparation is performed primarily in the `clean-data.ipynb` notebook [link](https://github.com/joshkeating/inf370-final-project/blob/master/clean-data.ipynb). All of the data exploration, model training, parameter selection, and analysis is performed in the main `analysis.ipynb` notebook [link](https://github.com/joshkeating/inf370-final-project/blob/master/analysis.ipynb).
 
 The origianl dataset is included in this repository with the addition of the calculated sentiment value from the listing summary. These files are located in the `/data` directory. 
+
+## Paper
+
+The full academic paper can be viewed [here](https://github.com/joshkeating/inf370-final-project/blob/master/INFO%20370%20Final%20Paper.pdf)
